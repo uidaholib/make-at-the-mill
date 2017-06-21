@@ -10,7 +10,7 @@ For this project all we need is an UNO board, a usb cable, and the IDE. This min
 
 > IDE = Integrated Development Environment = an application that allows you to edit/write code, compile it, and send it to Arduino devices. 
 
-# 2.1 - First Arduino program  
+# First Arduino program  
 
 1. Open Arduino Software IDE.
 
@@ -41,5 +41,7 @@ For this project all we need is an UNO board, a usb cable, and the IDE. This min
 - `delay()` is a timer that make the program wait. The delay is given in milliseconds.
 
 9. Mod this code! Change the delay times or add more on/off's, then click the upload arrow to get it running on your board. Congrats: you are a **programmer**!
+
+Next project, make [Uno Buzz](2-buzz)!
 
 > *More info:* The Arduino IDE is based on the "sketchbook" created for [Processing](https://processing.org/) and [Wiring](http://wiring.org.co/), platforms originally designed for creating interactive projects in the visual arts. The Arduino programming language is really a set of libraries in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B). Arduino IDE hides some of the complexity of setting up, but be proud that you are writing C/C++ code!

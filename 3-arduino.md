@@ -30,8 +30,8 @@ The connection is made by inserting wire into the tiny holes:
 
 # Learn
 
-1. Make it [Blink](4-code)!
-2. Make it [Buzz](5-buzz)!
+1. Make it [Blink](project/1-code)!
+2. Make it [Buzz](project/2-buzz)!
 
 # More Information
 
