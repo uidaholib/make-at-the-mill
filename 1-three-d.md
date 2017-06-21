@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3D
+nav: true
 ---
 
 3D Printing

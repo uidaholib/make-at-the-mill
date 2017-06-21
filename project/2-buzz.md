@@ -1,14 +1,15 @@
 ---
 layout: default
+title: Arduino Buzz
 ---
 
 # Arduino Buzz!
 
-Time to make some buzz! Let's build a light theremin. 
+Time to make some buzz, let's build a light theremin!
 
 For this project you will need some jumper wires, a piezo, a 10k ohm resistor, and a photoresistor. 
 
-![parts needed](images/ther1.JPG)
+{% include image.html file="ther1.JPG" alt="parts needed" %}
 
 This time we are adding a *sensor*, the photoresistor, so that UNO can get input from the outside world, i.e. UNO can get interactive! The piezo provides the buzzing and we control it by having UNO read the photoresistor.
 
@@ -18,36 +19,36 @@ This time we are adding a *sensor*, the photoresistor, so that UNO can get input
 
 1. Gently insert the pins of your Piezo into row one and five.
 
-    ![theremin](images/ther2.jpg)
+    ![theremin]({{site.url}}/images/ther2.jpg)
 
 2. Connect row one to the ground `-` rail with a wire jumper (i.e. piezo to GND)
 
-    ![theremin](images/ther3.jpg)
+    ![theremin]({{site.url}}/images/ther3.jpg)
 
 3. Connect row five to pin `8` on the UNO using a wire jumper (i.e piezo to digital pin)
 
-    ![theremin](images/ther4.jpg)
+    ![theremin]({{site.url}}/images/ther4.jpg)
 
 ## Connect photoresistor
 
 4. Insert the pins from the photoresistor in rows twentyfive and twentyeight.
 
-    ![theremin](images/ther5.jpg)
+    ![theremin]({{site.url}}/images/ther5.jpg)
 
 5. Connect row twentyfive to the power `+` rail with a jumper wire. 
 (i.e. photoresistor to 5V)
 
-    ![theremin](images/ther6.jpg)
+    ![theremin]({{site.url}}/images/ther6.jpg)
 
 6. Use 10k resistor to connect row twentyeight to ground `-` rail. 
 (i.e. photoresistor to GND)
 
-    ![theremin](images/ther7.jpg)
+    ![theremin]({{site.url}}/images/ther7.jpg)
 
 7. Connect row twentyeight to Pin `A0` on the UNO. 
 (i.e. photoresistor to analog input)
 
-    ![theremin](images/ther8.jpg)
+    ![theremin]({{site.url}}/images/ther8.jpg)
 
 ## Connect power 
 
@@ -55,7 +56,7 @@ This time we are adding a *sensor*, the photoresistor, so that UNO can get input
 
 10. Connect the power `+` rail to the `5V` Pin on the UNO with a power jumper wire.
 
-    ![theremin](images/ther9.jpg)
+    ![theremin]({{site.url}}/images/ther9.jpg)
 
 All ready to program... 
 

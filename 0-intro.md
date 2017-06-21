@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Intro
+nav: true
 ---
 
 # Workshop Outline 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Explore
+nav: true
 ---
 
 # Explore the MILL
