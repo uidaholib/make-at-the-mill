@@ -7,7 +7,7 @@ title: Make @ the MILL!
 description: > 
   Learn about the Arduino electronics platform by making lights blink and buzzers buzz! 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://uidaholib.github.io/make-at-the-mill" # the base hostname & protocol for your site
+url: "https://uidaholib.github.io/make-at-the-mill" # the base hostname & protocol for your site
 
 google_analytics: UA-74844011-1
 
