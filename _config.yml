@@ -14,4 +14,4 @@ google_analytics: UA-74844011-1
 # Build settings
 markdown: kramdown
 
-# note: fig include, {% include image.html file="my-cat.jpg" alt="cat" cap="My cat" %}
+# note: fig include, {% include image.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
