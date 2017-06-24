@@ -7,7 +7,8 @@ title: Arduino Code
 
 Lets make an LED blink! 
 
-For this project all we need is an UNO board, a usb cable, and the IDE. This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*.
+For this project all we need is an UNO board, a usb cable, and the IDE. 
+This mini project will get you oriented to the UNO, the IDE, and the code that makes it do *stuff*.
 
 > IDE = Integrated Development Environment = an application that allows you to edit/write code, compile it, and send it to Arduino devices. 
 
@@ -43,6 +44,4 @@ For this project all we need is an UNO board, a usb cable, and the IDE. This min
 
 9. Mod this code! Change the delay times or add more on/off's, then click the upload arrow to get it running on your board. Congrats: you are a **programmer**!
 
-Next project, make [Uno Buzz](2-buzz)!
-
-> *More info:* The Arduino IDE is based on the "sketchbook" created for [Processing](https://processing.org/) and [Wiring](http://wiring.org.co/), platforms originally designed for creating interactive projects in the visual arts. The Arduino programming language is really a set of libraries in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B). Arduino IDE hides some of the complexity of setting up, but be proud that you are writing C/C++ code!
+> Next step: make Uno [Buzz](2-buzz)!

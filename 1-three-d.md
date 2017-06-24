@@ -20,8 +20,10 @@ For more info, check the MILL [3D Printing page](http://mill.lib.uidaho.edu/inde
 The same types of files can be used in engineering, product design, video games, movies, or virtual reality.
 It is easy to find ready to print models on free sites such as [Thingiverse](https://www.tinkercad.com/), but you can also create your own!
 
+Modeling software:
 - [Tinkercad](https://www.tinkercad.com/) (easy to use online 3d modeling app)
 - [SketchUp](http://www.sketchup.com/) (3d modeling software, free for education)
 
-- [4-H coin](http://www.lib.uidaho.edu/services/workshops/resources/4hcoin2017.stl)
+UIdaho models:
 - [Vandal Helmet](https://www.thingiverse.com/thing:2358903)
+- [4-H coin](http://www.lib.uidaho.edu/services/workshops/resources/4hcoin2017.stl)
