@@ -6,7 +6,8 @@ nav: true
 
 # Welcome!
 
-Welcome to the [University of Idaho Library](http://www.lib.uidaho.edu/)!  
+Welcome to the [University of Idaho Library](http://www.lib.uidaho.edu/)!
+
 We are the largest library in the state of Idaho with millions of print and online books and periodicals.
 Additionally, our collections include a [Regional Depository for U.S. Government Documents](http://www.lib.uidaho.edu/find/govdocs/), [Special Collections & Archives](http://www.lib.uidaho.edu/special-collections/), [International Jazz Collections](http://www.ijc.uidaho.edu/), and extensive [Digital Collections](http://www.lib.uidaho.edu/digital/).
 We have regular [workshops](http://www.lib.uidaho.edu/services/workshops/resources.html) and fun events like [coloring books](http://www.lib.uidaho.edu/digital/gem/coloring/).
