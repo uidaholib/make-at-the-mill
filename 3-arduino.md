@@ -6,7 +6,7 @@ nav: true
 
 # Electronics and Code: Hello Arduino!
 
-Arduino is an ecosystem of simple, open-source hardware and software components that makes creating interactive physical computing projects easy.
+[Arduino](https://www.arduino.cc/) is an ecosystem of simple, open-source hardware and software components that makes creating interactive [physical computing](https://en.wikipedia.org/wiki/Physical_computing) projects easy.
 Learning about electronics and code is much more fun when you can make lights blink, buzzers buzz, and things move!
 
 During this part of the workshop we will build a basic electronic circuit and program an Arduino micro controller. 

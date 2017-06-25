@@ -28,4 +28,22 @@ The connection is made by inserting wire into the tiny holes:
 - Each pin hole in a `Row` is connected horizontally. 
 - A `Split` runs down the middle dividing the board in two.
 
-> Next step: make Uno [Blink](1-code)!
+# Inputs & Outputs
+
+Arduino is designed to make interactive projects. 
+This means it uses sensors to get input from the world, and responds by controlling actuators / outputs.
+Uno does not have any built in sensors or actuators, you connect them to the boards pins.
+
+Example sensors:
+- button
+- potentiometer (dial)
+- temperature sensor
+- accelerometer (motion sensor)
+- photoresistor (light sensor)
+
+Example outputs:
+- LED (light)
+- piezo buzzer (sound) 
+- Servo motor, DC motor (motion)
+
+> **Next step:** make Uno [Blink](1-code)!

@@ -6,6 +6,8 @@ nav: true
 
 # Explore the MILL
 
+We have three short demonstration activities to share some of the technology in the MILL:
+
 ## Button Maker
 
 Makerspaces aren't all about digital tools--the MILL features many outlets for your creativity.
