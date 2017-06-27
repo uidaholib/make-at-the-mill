@@ -15,6 +15,8 @@ nav: true
 - 16 Hertz, <http://www.16hertz.com/>
     - Purchase cheaper non-official kits.
     - Great graphic novel style intro book, [Illustrated Arduino](http://bit.ly/illustratedarduino)
+- SparkFun, <https://www.sparkfun.com/>
+    - Starter kits and [SIK Experiment Guide for Arduino](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33) book.
 - Adafruit, <https://www.adafruit.com/>
     - good source for purchasing electronics, including specialized Arduino based boards and accessories.
     - lots of [projects](https://learn.adafruit.com/) and learning resources.
