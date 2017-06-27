@@ -20,6 +20,6 @@ Use your creativity and curiosity to collaborate with peers on a simple electron
 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
-> content: cc-by-sa <a href="https://github.com/uidaholib/">UIdahoLib</a> 2017
+> content: cc-by-sa <a href="https://github.com/uidaholib/">UIdahoLib</a> 2017. [get the [source code](https://github.com/uidaholib/make-at-the-mill)]
 >
 > <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
