@@ -20,8 +20,8 @@ Located on the newly renovated first floor of the library and open to everyone o
 
 - Introduction to the Library and the MILL
 - Introduction to 3d printing and modeling
-- Explore the MILL: button making, MakeyMakey, and VR
+- Explore the MILL: button making, vinyl cutter, MakeyMakey, and VR
 - Break
 - Arduino project
 
-Be sure to checkout our [poemBot](https://github.com/evanwill/poemBot) printer at the circulation desk, printing the 4-H pledge!
+Be sure to checkout our [poemBot](https://github.com/evanwill/poemBot) printer in the MILL, printing the 4-H pledge!

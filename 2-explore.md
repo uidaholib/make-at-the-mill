@@ -6,12 +6,17 @@ nav: true
 
 # Explore the MILL
 
-We have three short demonstration activities to share some of the technology in the MILL:
+We have several short demonstration activities to share some of the technology in the MILL:
 
 ## Button Maker
 
 Makerspaces aren't all about digital tools--the MILL features many outlets for your creativity.
 Our button maker is one of our most popular devices!
+
+## Vinyl Cutter
+
+Our [Silhouette Cameo](http://www.silhouetteamerica.com/shop/machines/cameo) uses a small blade to cut paper, card stock, vinyl, fabric and more following a design you create on the computer. 
+The software allows you to convert images or sketches into decals!
 
 ## MakeyMakey 
 

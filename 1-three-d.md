@@ -18,7 +18,7 @@ For more info, check the MILL [3D Printing page](http://mill.lib.uidaho.edu/inde
 
 3D printers use 3D model files. 
 The same types of files can be used in engineering, product design, video games, movies, or virtual reality.
-It is easy to find ready to print models on free sites such as [Thingiverse](https://www.tinkercad.com/), but you can also create your own!
+It is easy to find ready to print models on free sites such as [Thingiverse](https://www.thingiverse.com/) or [Sketchfab](https://sketchfab.com/models/categories/cultural-heritage-history), but you can also create your own!
 
 Modeling software:
 - [Tinkercad](https://www.tinkercad.com/) (easy to use online 3d modeling app)
