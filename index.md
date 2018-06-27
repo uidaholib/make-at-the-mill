@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include image.html file="stac2018.jpg" alt="arduino uno" %}
-
 # Make @ the MILL!
 
 > Workshop offered as part of [Idaho 4-H State Teen Association Convention](http://www.uidaho.edu/extension/4h/events/stac),
 > hosted by [University of Idaho Library's](http://www.lib.uidaho.edu/) the [MILL](http://mill.lib.uidaho.edu/).
 > June 2016, 2017, & 2018
+
+{% include image.html file="stac2018.jpg" alt="arduino uno" %}
 
 Join us for a hands-on session in The MILL, UI Library's Making, Innovating, and Learning Laboratory! 
 
