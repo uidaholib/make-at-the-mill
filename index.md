@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include image.html file="stac2018.png" alt="arduino uno" %}
+{% include image.html file="stac2018.jpg" alt="arduino uno" %}
 
 # Make @ the MILL!
 
