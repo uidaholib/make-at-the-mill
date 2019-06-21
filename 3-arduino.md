@@ -14,9 +14,9 @@ This is an introduction for beginners from all backgrounds, no experience with e
 
 # Project steps:
 
-0. Introducing [Arduino Uno](project/0-uno)
-1. Make it [Blink](project/1-code)!
-2. Make it [Buzz](project/2-buzz)!
+0. Introducing [Arduino Uno]({{ 'project/0-uno.html' | relative_url }})
+1. Make it [Blink]({{ 'project/1-code.html' | relative_url }})!
+2. Make it [Buzz]({{ 'project/2-buzz.html' | relative_url }})!
 
 # More Information
 

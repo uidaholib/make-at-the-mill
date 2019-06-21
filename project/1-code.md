@@ -16,7 +16,7 @@ This mini project will get you oriented to the UNO, the IDE, and the code that m
 
 1. Open Arduino Software IDE.
 
-    ![arduino IDE]({{site.url}}/images/arduinoIDE.png)
+    ![arduino IDE]({{ '/images/arduinoIDE.png' | relative_url }})
 
 2. Click `File` > `Examples` > `01.Basics` > `Blink`. This will open a new window with the Blink program. These built in examples are a great way to learn. You don't need to write code from scratch: borrow. That is the power of code! 
 
@@ -28,7 +28,7 @@ This mini project will get you oriented to the UNO, the IDE, and the code that m
 
 4. Plug your usb cable into your UNO and computer.
 
-    ![UNO plugged in to usb]({{site.url}}/images/first_code.JPG)
+    ![UNO plugged in to usb]({{ '/images/first_code.JPG' | relative_url }})
 
 5. On IDE, click `Tools` > `Board` > `Arduino/Genuino UNO` to set up the correct board.
 
@@ -44,4 +44,4 @@ This mini project will get you oriented to the UNO, the IDE, and the code that m
 
 9. Mod this code! Change the delay times or add more on/off's, then click the upload arrow to get it running on your board. Congrats: you are a **programmer**!
 
-> Next step: make Uno [Buzz](2-buzz)!
+> Next step: make Uno [Buzz]({{ '/project/2-buzz.html' | relative_url }})!

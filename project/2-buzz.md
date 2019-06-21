@@ -20,36 +20,36 @@ The piezo provides the buzzing and we control it by having UNO read the photores
 
 1. Gently insert the pins of your Piezo into row one and five.
 
-    ![theremin]({{site.url}}/images/ther2.jpg)
+    ![theremin]({{ '/images/ther2.jpg' | relative_url }})
 
 2. Connect row one to the ground `-` rail with a wire jumper (i.e. piezo to GND)
 
-    ![theremin]({{site.url}}/images/ther3.jpg)
+    ![theremin]({{ '/images/ther3.jpg' | relative_url }})
 
 3. Connect row five to pin `8` on the UNO using a wire jumper (i.e piezo to digital pin)
 
-    ![theremin]({{site.url}}/images/ther4.jpg)
+    ![theremin]({{ '/images/ther4.jpg' | relative_url }})
 
 ## Connect photoresistor
 
 4. Insert the pins from the photoresistor in rows twentyfive and twentyeight.
 
-    ![theremin]({{site.url}}/images/ther5.jpg)
+    ![theremin]({{ '/images/ther5.jpg' | relative_url }})
 
 5. Connect row twentyfive to the power `+` rail with a jumper wire. 
 (i.e. photoresistor to 5V)
 
-    ![theremin]({{site.url}}/images/ther6.jpg)
+    ![theremin]({{ '/images/ther6.jpg' | relative_url }})
 
 6. Use 10k resistor to connect row twentyeight to ground `-` rail. 
 (i.e. photoresistor to GND)
 
-    ![theremin]({{site.url}}/images/ther7.jpg)
+    ![theremin]({{ '/images/ther7.jpg' | relative_url }})
 
 7. Connect row twentyeight to Pin `A0` on the UNO. 
 (i.e. photoresistor to analog input)
 
-    ![theremin]({{site.url}}/images/ther8.jpg)
+    ![theremin]({{ '/images/ther8.jpg' | relative_url }})
 
 ## Connect power 
 
@@ -57,7 +57,7 @@ The piezo provides the buzzing and we control it by having UNO read the photores
 
 10. Connect the power `+` rail to the `5V` Pin on the UNO with a power jumper wire.
 
-    ![theremin]({{site.url}}/images/ther9.jpg)
+    ![theremin]({{ '/images/ther9.jpg' | relative_url }})
 
 All ready to program... 
 

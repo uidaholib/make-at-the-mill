@@ -7,7 +7,7 @@ title: Arduino Uno
 
 Meet your *microcontroller*!
 
-![arduino board with parts labelled]({{site.url}}/images/arduino_intro1.jpg "arduino board")
+{% include figure.html img="arduino_intro1.jpg" alt="arduino board with parts labelled" %}
 
 [Arduino UNO](https://www.arduino.cc/en/Main/ArduinoBoardUno) is an easy to use prototyping board based on **open-source** hardware and software. It can be programmed using Arduino's basic [language](https://www.arduino.cc/en/Reference/HomePage) to create interactive physical computing projects. 
 
@@ -19,7 +19,7 @@ For examples and inspiration check out the [Project Hub](https://create.arduino.
 
 That white thing attached to your UNO? Its a solderless breadboard!
 
-![Solderless breadboard with parts labelled]({{site.url}}/images/breadboard.jpg "breadboard")
+{% include figure.html img="breadboard.jpg" alt="Solderless breadboard with parts labelled" %}
 
 Breadboard make it easy to create circuits without soldering any wires together. 
 The connection is made by inserting wire into the tiny holes: 
@@ -46,4 +46,4 @@ Example outputs:
 - piezo buzzer (sound) 
 - Servo motor, DC motor (motion)
 
-> **Next step:** make Uno [Blink](1-code)!
+> **Next step:** make Uno [Blink]({{ '/project/1-code.html' | relative_url }})!
