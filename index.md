@@ -6,9 +6,9 @@ layout: default
 
 > Workshop offered as part of [Idaho 4-H State Teen Association Convention](http://www.uidaho.edu/extension/4h/events/stac),
 > hosted by [University of Idaho Library's](http://www.lib.uidaho.edu/) the [MILL](http://mill.lib.uidaho.edu/).
-> June 2016, 2017, & 2018
+> June 2016, 2017, 2018, & 2019
 
-{% include image.html file="stac2018.jpg" alt="arduino uno" %}
+{% include image.html file="stac_2019.jpg" alt="2019 STAC logo: we are idaho's future" %}
 
 Join us for a hands-on session in The MILL, UI Library's Making, Innovating, and Learning Laboratory! 
 
@@ -24,7 +24,7 @@ Use your creativity and curiosity to collaborate with peers on a simple electron
 {% endfor %}
 </div>
 
-{% include image.html file="header-brand.png" alt="UIdaho Library logo" width="50%" %}
+{% include figure.html img="ui_library_horizontal.png" alt="UIdaho Library logo" width="50%" %}
 
 Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
  
