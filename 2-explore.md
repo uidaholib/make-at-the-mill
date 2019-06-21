@@ -27,6 +27,12 @@ The MakeyMakey acts like a keyboard or mouse for any program on your computer--g
 
 - MakeyMakey [web apps](http://makeymakey.com/apps/)
 
+## Raspberry Pi 
+
+[Raspberry Pi](https://www.raspberrypi.org/) is a single board computer that is cheap, hackable, and fun! 
+This simple computer runs [Raspbian](https://www.raspberrypi.org/downloads/raspbian/), a Linux-based operating system that can do everything it's bigger laptop cousins can do. 
+RPI is great for learning to code, building projects, or just playing some games!
+
 ## VR / AR
 
 Virtual Reality (VR) and Augmented Reality (AR) are emerging tech with ever increasing use cases. 
