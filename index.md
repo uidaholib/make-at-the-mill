@@ -10,11 +10,12 @@ layout: default
 
 {% include image.html file="stac_2019.jpg" alt="2019 STAC logo: we are idaho's future" %}
 
-Join us for a hands-on session in The MILL, UI Library's Making, Innovating, and Learning Laboratory! 
+Join us for a hands-on session in [The MILL](https://mill.lib.uidaho.edu/), UI Library's Making, Innovating, and Learning Laboratory! 
 
-This workshop will provide an opportunity to engage with emerging technologies that offer the stepping stones for solving real world challenges of the future. 
-Explore The MILL’s many resources, including tools for fabricating and printing (3-D printer and vinyl cutter); open source electronic-based tools for coding and programming (Arduino, Raspberry Pi, and Makey Makey); and tools for virtual and augmented reality (Google cardboard, View-Master, and Leap Motion). 
-Use your creativity and curiosity to collaborate with peers on a simple electronics-based project using Arduino to explore engineering and technology.
+This workshop introduces Idaho 4-H students to the amazing and fun technology in The MILL, while engaging with emerging technologies that offer the stepping stones for solving real world challenges of the future. 
+The two-hour workshop offers students a chance to take part in innovative and playful hands-on activities while building digital skills essential to all types of careers, from science and technology to the arts. 
+The first hour will allow time for demonstration and exploration of The MILL’s many resources, including tools for fabricating and printing (3-D printer and vinyl cutter); open source electronic-based tools for coding and programming (Arduino, Raspberry Pi, and Makey Makey); and tools for virtual and augmented reality (Google cardboard, View-Master, and Leap Motion). 
+During the second half of the workshop, students will use their creativity and curiosity to collaborate with their peers on a simple electronics-based project using Arduino that will stimulate and develop their interest in engineering and technology.
 
 <div class="toc" markdown="1">
 ## Contents:
