@@ -4,13 +4,13 @@ layout: default
 
 # Make @ the MILL!
 
-> Workshop offered as part of [Idaho 4-H State Teen Association Convention](http://www.uidaho.edu/extension/4h/events/stac),
-> hosted by [University of Idaho Library's](http://www.lib.uidaho.edu/) the [MILL](http://mill.lib.uidaho.edu/).
+> Workshop offered as part of [Idaho 4-H State Teen Association Convention](https://www.uidaho.edu/extension/4h/events/stac),
+> hosted by [University of Idaho Library's](https://www.lib.uidaho.edu/) the [MILL](https://www.lib.uidaho.edu/mill).
 > June 2016, 2017, 2018, & 2019
 
 {% include image.html file="stac_2019.jpg" alt="2019 STAC logo: we are idaho's future" %}
 
-Join us for a hands-on session in [The MILL](https://mill.lib.uidaho.edu/), UI Library's Making, Innovating, and Learning Laboratory! 
+Join us for a hands-on session in [The MILL](https://www.lib.uidaho.edu/mill), UI Library's Making, Innovating, and Learning Laboratory! 
 
 This workshop introduces Idaho 4-H students to the amazing and fun technology in The MILL, while engaging with emerging technologies that offer the stepping stones for solving real world challenges of the future. 
 The two-hour workshop offers students a chance to take part in innovative and playful hands-on activities while building digital skills essential to all types of careers, from science and technology to the arts. 

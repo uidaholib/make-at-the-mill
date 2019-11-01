@@ -2,9 +2,9 @@
 
 > Jekyll repository for workshop website
 
-Workshop offered as part of [Idaho 4-H State Teen Association Convention](http://www.uidaho.edu/extension/4h/events/stac)
+Workshop offered as part of [Idaho 4-H State Teen Association Convention](https://www.uidaho.edu/extension/4h/events/stac)
 
-Hosted at [University of Idaho Library's](http://www.lib.uidaho.edu/) the [MILL](http://mill.lib.uidaho.edu/), June 2016, 2017, and 2018
+Hosted at [University of Idaho Library's](https://www.lib.uidaho.edu/) the [MILL](https://www.lib.uidaho.edu/mill), June 2016, 2017, and 2018
 
 Abstract:
 

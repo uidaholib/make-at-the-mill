@@ -20,7 +20,7 @@ This is an introduction for beginners from all backgrounds, no experience with e
 
 # More Information
 
-[The MILL](http://mill.lib.uidaho.edu/) provides everything you need for this Arduino project.
+[The MILL](http://www.lib.uidaho.edu/mill) provides everything you need for this Arduino project.
 
 For reference, these are the materials used:
 

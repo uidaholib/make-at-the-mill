@@ -12,8 +12,6 @@ They are [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardwa
 This means we can fix it ourselves and even 3d print new parts! 
 We print using the [open source](https://en.wikipedia.org/wiki/Open-source_software) software [Cura](https://www.lulzbot.com/cura).
 
-For more info, check the MILL [3D Printing page](http://mill.lib.uidaho.edu/index.php/tools/3dprinting/).
-
 # 3D Modeling
 
 3D printers use 3D model files. 
