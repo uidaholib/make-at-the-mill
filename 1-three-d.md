@@ -26,4 +26,4 @@ Modeling software:
 UIdaho models:
 
 - [Vandal Helmet](https://www.thingiverse.com/thing:2358903)
-- [4-H coin](http://www.lib.uidaho.edu/services/workshops/resources/4hcoin2017.stl)
+- [4-H coin](http://www.lib.uidaho.edu/media/workshops/4hcoin2017.stl)
